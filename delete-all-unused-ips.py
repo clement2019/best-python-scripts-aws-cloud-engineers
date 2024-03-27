@@ -1,6 +1,6 @@
 import boto3
 
-# Add your AWS access key ID and secret access key here
+# Add your AWS access key ID and secret access key here but we are not supposed to expose our secret keys and access keys in livfe project
 aws_access_key_id = "replace with access key"
 aws_secret_access_key = "replace with secret access key"
 
